@@ -1,5 +1,5 @@
 #include<stdio.h>
-// Adding comment
+
 void swap(char **s1, char **s2){
 	
 	printf("Value of s1 is : %s\n",s1);
