@@ -17,6 +17,14 @@ Feature 1
 implemented
 
 */
+
+/*
+
+Feature 2 
+
+Implemented
+
+*/
 int main(){
 
 char *p1,*p2;
